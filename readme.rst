@@ -18,9 +18,3 @@ Sistem ini dibuat untuk mempermudah proses pengelolaan poin kredit kegiatan maha
 - **Backend**: CodeIgniter 3 (PHP Framework)
 - **Frontend**: HTML, CSS, JavaScript (Bootstrap)
 - **Database**: MySQL
-
-## Instalasi
-
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/sikp.git
