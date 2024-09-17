@@ -15,7 +15,7 @@ Sistem ini dibuat untuk mempermudah proses pengelolaan poin kredit kegiatan maha
 
 ## Teknologi yang Digunakan
 
-- **Backend**: CodeIgniter 3 (PHP Framework)
+- **Backend**: CodeIgniter 3.1 (PHP Framework)
 - **Frontend**: HTML, CSS, JavaScript (Bootstrap)
 - **Database**: MySQL
 
